@@ -1,0 +1,19 @@
+<launch>
+    <!-- 1. 加载控制器配置参数（需与控制器代码中的参数名对应） -->
+    <rosparam file="$(find chassis_controller)/config/chassis_control.yaml" command="load"/>
+    
+    <!-- 2. 包含URDF显示与Gazebo启动配置 -->
+    <!-- 修复include语法，传递model参数（display.launch需要） -->
+    <include file="$(find rm_description)/launch/check_joint.launch"/>
+    
+    <!-- 3. 启动控制器管理器，生成控制器 -->
+    <node name="controller_spawner" 
+          type="spawner" 
+          pkg="controller_manager" 
+          respawn="false"
+          output="screen"  
+          args="controller/chassis_controller  
+                controller/joint_state_controller"/> 
+    <node name="teleop_twist_keyboard" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" output="screen"/>
+</launch>
+    
