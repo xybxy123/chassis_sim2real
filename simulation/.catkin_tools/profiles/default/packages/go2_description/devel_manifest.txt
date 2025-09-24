@@ -1,4 +1,0 @@
-unitree_ros/robots/go2_description
-/home/xybxy/simulation/devel/.private/go2_description/lib/pkgconfig/go2_description.pc /home/xybxy/simulation/devel/lib/pkgconfig/go2_description.pc
-/home/xybxy/simulation/devel/.private/go2_description/share/go2_description/cmake/go2_descriptionConfig.cmake /home/xybxy/simulation/devel/share/go2_description/cmake/go2_descriptionConfig.cmake
-/home/xybxy/simulation/devel/.private/go2_description/share/go2_description/cmake/go2_descriptionConfig-version.cmake /home/xybxy/simulation/devel/share/go2_description/cmake/go2_descriptionConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/b2_description/lib/pkgconfig/b2_description.pc

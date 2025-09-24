@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/a1_description/lib/pkgconfig/a1_description.pc

@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/go1_description/lib/pkgconfig/go1_description.pc

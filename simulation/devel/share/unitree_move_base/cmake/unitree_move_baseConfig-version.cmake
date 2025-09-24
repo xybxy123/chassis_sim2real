@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/unitree_move_base/share/unitree_move_base/cmake/unitree_move_baseConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/b2w_description/share/b2w_description/cmake/b2w_descriptionConfig.cmake

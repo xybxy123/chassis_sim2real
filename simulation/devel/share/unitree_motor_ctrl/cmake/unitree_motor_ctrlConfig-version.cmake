@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/unitree_motor_ctrl/share/unitree_motor_ctrl/cmake/unitree_motor_ctrlConfig-version.cmake

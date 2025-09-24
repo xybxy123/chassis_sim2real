@@ -1,8 +1,0 @@
-[01m[K/home/xybxy/simulation/src/unitree_ros/unitree_legged_control/src/unitree_joint_control_tool.cpp:[m[K In function ‘[01m[Kfloat clamp(float&, float, float)[m[K’:
-[01m[K/home/xybxy/simulation/src/unitree_ros/unitree_legged_control/src/unitree_joint_control_tool.cpp:6:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
-    6 | [01;35m[K}[m[K
-      | [01;35m[K^[m[K
-[01m[K/home/xybxy/simulation/src/unitree_ros/unitree_legged_control/src/unitree_joint_control_tool.cpp:[m[K In function ‘[01m[Kdouble clamp(double&, double, double)[m[K’:
-[01m[K/home/xybxy/simulation/src/unitree_ros/unitree_legged_control/src/unitree_joint_control_tool.cpp:11:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
-   11 | [01;35m[K}[m[K
-      | [01;35m[K^[m[K

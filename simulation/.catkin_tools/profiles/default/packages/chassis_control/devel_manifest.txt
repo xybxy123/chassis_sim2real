@@ -1,5 +1,0 @@
-chassis_control
-/home/xybxy/simula/devel/.private/chassis_control/lib/libchassis_control.so /home/xybxy/simula/devel/lib/libchassis_control.so
-/home/xybxy/simula/devel/.private/chassis_control/lib/pkgconfig/chassis_control.pc /home/xybxy/simula/devel/lib/pkgconfig/chassis_control.pc
-/home/xybxy/simula/devel/.private/chassis_control/share/chassis_control/cmake/chassis_controlConfig.cmake /home/xybxy/simula/devel/share/chassis_control/cmake/chassis_controlConfig.cmake
-/home/xybxy/simula/devel/.private/chassis_control/share/chassis_control/cmake/chassis_controlConfig-version.cmake /home/xybxy/simula/devel/share/chassis_control/cmake/chassis_controlConfig-version.cmake

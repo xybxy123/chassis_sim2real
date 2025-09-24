@@ -1,8 +1,0 @@
-unitree_ros/unitree_controller
-/home/xybxy/simulation/devel/.private/unitree_controller/lib/libunitree_controller.so /home/xybxy/simulation/devel/lib/libunitree_controller.so
-/home/xybxy/simulation/devel/.private/unitree_controller/lib/unitree_controller/unitree_external_force /home/xybxy/simulation/devel/lib/unitree_controller/unitree_external_force
-/home/xybxy/simulation/devel/.private/unitree_controller/lib/unitree_controller/unitree_move_kinetic /home/xybxy/simulation/devel/lib/unitree_controller/unitree_move_kinetic
-/home/xybxy/simulation/devel/.private/unitree_controller/lib/unitree_controller/unitree_servo /home/xybxy/simulation/devel/lib/unitree_controller/unitree_servo
-/home/xybxy/simulation/devel/.private/unitree_controller/lib/pkgconfig/unitree_controller.pc /home/xybxy/simulation/devel/lib/pkgconfig/unitree_controller.pc
-/home/xybxy/simulation/devel/.private/unitree_controller/share/unitree_controller/cmake/unitree_controllerConfig-version.cmake /home/xybxy/simulation/devel/share/unitree_controller/cmake/unitree_controllerConfig-version.cmake
-/home/xybxy/simulation/devel/.private/unitree_controller/share/unitree_controller/cmake/unitree_controllerConfig.cmake /home/xybxy/simulation/devel/share/unitree_controller/cmake/unitree_controllerConfig.cmake

@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/b1_description/share/b1_description/cmake/b1_descriptionConfig-version.cmake

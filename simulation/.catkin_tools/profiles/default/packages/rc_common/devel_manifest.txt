@@ -1,5 +1,0 @@
-rc_control/rc_common
-/home/xybxy/simula/devel/.private/rc_common/lib/librc_common.so /home/xybxy/simula/devel/lib/librc_common.so
-/home/xybxy/simula/devel/.private/rc_common/lib/pkgconfig/rc_common.pc /home/xybxy/simula/devel/lib/pkgconfig/rc_common.pc
-/home/xybxy/simula/devel/.private/rc_common/share/rc_common/cmake/rc_commonConfig-version.cmake /home/xybxy/simula/devel/share/rc_common/cmake/rc_commonConfig-version.cmake
-/home/xybxy/simula/devel/.private/rc_common/share/rc_common/cmake/rc_commonConfig.cmake /home/xybxy/simula/devel/share/rc_common/cmake/rc_commonConfig.cmake

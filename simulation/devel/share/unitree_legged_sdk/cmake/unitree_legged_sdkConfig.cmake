@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/unitree_legged_sdk/share/unitree_legged_sdk/cmake/unitree_legged_sdkConfig.cmake

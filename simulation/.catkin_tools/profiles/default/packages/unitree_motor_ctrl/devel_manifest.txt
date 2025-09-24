@@ -1,5 +1,0 @@
-unitree_guide/unitree_actuator_sdk/unitree_motor_ctrl
-/home/xybxy/simulation/devel/.private/unitree_motor_ctrl/lib/unitree_motor_ctrl/unitree_motor_ctrl_node /home/xybxy/simulation/devel/lib/unitree_motor_ctrl/unitree_motor_ctrl_node
-/home/xybxy/simulation/devel/.private/unitree_motor_ctrl/lib/pkgconfig/unitree_motor_ctrl.pc /home/xybxy/simulation/devel/lib/pkgconfig/unitree_motor_ctrl.pc
-/home/xybxy/simulation/devel/.private/unitree_motor_ctrl/share/unitree_motor_ctrl/cmake/unitree_motor_ctrlConfig.cmake /home/xybxy/simulation/devel/share/unitree_motor_ctrl/cmake/unitree_motor_ctrlConfig.cmake
-/home/xybxy/simulation/devel/.private/unitree_motor_ctrl/share/unitree_motor_ctrl/cmake/unitree_motor_ctrlConfig-version.cmake /home/xybxy/simulation/devel/share/unitree_motor_ctrl/cmake/unitree_motor_ctrlConfig-version.cmake

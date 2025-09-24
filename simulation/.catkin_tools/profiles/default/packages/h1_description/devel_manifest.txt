@@ -1,4 +1,0 @@
-unitree_ros/robots/h1_description
-/home/xybxy/simulation/devel/.private/h1_description/lib/pkgconfig/h1_description.pc /home/xybxy/simulation/devel/lib/pkgconfig/h1_description.pc
-/home/xybxy/simulation/devel/.private/h1_description/share/h1_description/cmake/h1_descriptionConfig.cmake /home/xybxy/simulation/devel/share/h1_description/cmake/h1_descriptionConfig.cmake
-/home/xybxy/simulation/devel/.private/h1_description/share/h1_description/cmake/h1_descriptionConfig-version.cmake /home/xybxy/simulation/devel/share/h1_description/cmake/h1_descriptionConfig-version.cmake

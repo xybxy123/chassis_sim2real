@@ -1,1 +1,0 @@
-cmd_/home/xybxy/simulation/src/peak-linux-driver-8.20.0/driver/modules.order := {   echo /home/xybxy/simulation/src/peak-linux-driver-8.20.0/driver/pcan.ko; :; } | awk '!x[$$0]++' - > /home/xybxy/simulation/src/peak-linux-driver-8.20.0/driver/modules.order

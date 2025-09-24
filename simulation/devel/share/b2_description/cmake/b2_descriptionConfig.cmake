@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/b2_description/share/b2_description/cmake/b2_descriptionConfig.cmake

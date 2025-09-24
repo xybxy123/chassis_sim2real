@@ -1,6 +1,0 @@
-devel_space: /home/xybxy/simulation/devel
-install: false
-install_space: /home/xybxy/simulation/install
-profile: default
-source_space: /home/xybxy/simulation/src
-workspace: /home/xybxy/simulation

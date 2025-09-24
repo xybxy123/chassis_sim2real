@@ -1,4 +1,0 @@
-rm_controls_tutorials
-/home/xybxy/simula/devel/.private/rm_controls_tutorials/lib/pkgconfig/rm_controls_tutorials.pc /home/xybxy/simula/devel/lib/pkgconfig/rm_controls_tutorials.pc
-/home/xybxy/simula/devel/.private/rm_controls_tutorials/share/rm_controls_tutorials/cmake/rm_controls_tutorialsConfig-version.cmake /home/xybxy/simula/devel/share/rm_controls_tutorials/cmake/rm_controls_tutorialsConfig-version.cmake
-/home/xybxy/simula/devel/.private/rm_controls_tutorials/share/rm_controls_tutorials/cmake/rm_controls_tutorialsConfig.cmake /home/xybxy/simula/devel/share/rm_controls_tutorials/cmake/rm_controls_tutorialsConfig.cmake

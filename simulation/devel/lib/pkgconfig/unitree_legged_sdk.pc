@@ -1,1 +1,0 @@
-/home/xybxy/simulation/devel/.private/unitree_legged_sdk/lib/pkgconfig/unitree_legged_sdk.pc

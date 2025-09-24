@@ -1,8 +1,0 @@
-prefix=/home/xybxy/simulation/devel/.private/daikfs
-
-Name: daikfs
-Description: Description of daikfs
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
