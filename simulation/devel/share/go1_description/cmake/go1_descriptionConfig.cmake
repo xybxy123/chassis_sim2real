@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/go1_description/share/go1_description/cmake/go1_descriptionConfig.cmake

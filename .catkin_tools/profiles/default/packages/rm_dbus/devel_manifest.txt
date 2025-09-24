@@ -1,0 +1,5 @@
+rm_control/rm_dbus
+/home/xybxy/simula/devel/.private/rm_dbus/lib/rm_dbus/rm_dbus /home/xybxy/simula/devel/lib/rm_dbus/rm_dbus
+/home/xybxy/simula/devel/.private/rm_dbus/lib/pkgconfig/rm_dbus.pc /home/xybxy/simula/devel/lib/pkgconfig/rm_dbus.pc
+/home/xybxy/simula/devel/.private/rm_dbus/share/rm_dbus/cmake/rm_dbusConfig.cmake /home/xybxy/simula/devel/share/rm_dbus/cmake/rm_dbusConfig.cmake
+/home/xybxy/simula/devel/.private/rm_dbus/share/rm_dbus/cmake/rm_dbusConfig-version.cmake /home/xybxy/simula/devel/share/rm_dbus/cmake/rm_dbusConfig-version.cmake

@@ -1,0 +1,5 @@
+rc_control/rc_ibus
+/home/xybxy/simula/devel/.private/rc_ibus/lib/pkgconfig/rc_ibus.pc /home/xybxy/simula/devel/lib/pkgconfig/rc_ibus.pc
+/home/xybxy/simula/devel/.private/rc_ibus/lib/rc_ibus/rc_ibus /home/xybxy/simula/devel/lib/rc_ibus/rc_ibus
+/home/xybxy/simula/devel/.private/rc_ibus/share/rc_ibus/cmake/rc_ibusConfig-version.cmake /home/xybxy/simula/devel/share/rc_ibus/cmake/rc_ibusConfig-version.cmake
+/home/xybxy/simula/devel/.private/rc_ibus/share/rc_ibus/cmake/rc_ibusConfig.cmake /home/xybxy/simula/devel/share/rc_ibus/cmake/rc_ibusConfig.cmake

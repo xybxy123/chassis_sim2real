@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <!-- Publish starrobot odometry -->
+    <node pkg="cmd_vel2ttl" name="cmd_vel2ttl" type="cmd_vel2ttl" output="screen">
+		<param name="port" value="/dev/ttyUSB0" />
+    </node>
+</launch>

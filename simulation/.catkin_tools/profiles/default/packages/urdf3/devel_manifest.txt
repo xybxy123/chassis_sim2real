@@ -1,0 +1,4 @@
+urdf3
+/home/xybxy/simula/devel/.private/urdf3/lib/pkgconfig/urdf3.pc /home/xybxy/simula/devel/lib/pkgconfig/urdf3.pc
+/home/xybxy/simula/devel/.private/urdf3/share/urdf3/cmake/urdf3Config.cmake /home/xybxy/simula/devel/share/urdf3/cmake/urdf3Config.cmake
+/home/xybxy/simula/devel/.private/urdf3/share/urdf3/cmake/urdf3Config-version.cmake /home/xybxy/simula/devel/share/urdf3/cmake/urdf3Config-version.cmake

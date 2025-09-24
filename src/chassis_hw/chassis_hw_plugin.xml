@@ -1,0 +1,7 @@
+<library path="libchassis_hw">
+  <class name="chassis_hw/ChassisHW"
+         type="chassis_hw::ChassisHW"
+         base_class_type="hardware_interface::RobotHW">
+    <description>Chassis hardware interface for M3508 motors via CAN bus.</description>
+  </class>
+</library>

@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/b2w_description/lib/pkgconfig/b2w_description.pc

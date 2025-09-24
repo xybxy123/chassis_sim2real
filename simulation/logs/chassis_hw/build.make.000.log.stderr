@@ -1,0 +1,13 @@
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Kchassis_hw.h: 没有那个文件或目录
+    1 | #include [01;31m[K"chassis_hw.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~[m[K
+compilation terminated.
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/usb_can.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Kusb_can.h: 没有那个文件或目录
+    1 | #include [01;31m[K"usb_can.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/chassis_hw.dir/build.make:63：CMakeFiles/chassis_hw.dir/src/chassis_hw.cpp.o] 错误 1
+make[2]: *** 正在等待未完成的任务....
+make[2]: *** [CMakeFiles/chassis_hw.dir/build.make:76：CMakeFiles/chassis_hw.dir/src/usb_can.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:746：CMakeFiles/chassis_hw.dir/all] 错误 2
+make: *** [Makefile:141：all] 错误 2

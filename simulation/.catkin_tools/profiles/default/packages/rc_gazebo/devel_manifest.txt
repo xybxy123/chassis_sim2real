@@ -1,0 +1,5 @@
+rc_control/rc_gazebo
+/home/xybxy/simula/devel/.private/rc_gazebo/lib/librc_action_hw_sim.so /home/xybxy/simula/devel/lib/librc_action_hw_sim.so
+/home/xybxy/simula/devel/.private/rc_gazebo/lib/pkgconfig/rc_gazebo.pc /home/xybxy/simula/devel/lib/pkgconfig/rc_gazebo.pc
+/home/xybxy/simula/devel/.private/rc_gazebo/share/rc_gazebo/cmake/rc_gazeboConfig.cmake /home/xybxy/simula/devel/share/rc_gazebo/cmake/rc_gazeboConfig.cmake
+/home/xybxy/simula/devel/.private/rc_gazebo/share/rc_gazebo/cmake/rc_gazeboConfig-version.cmake /home/xybxy/simula/devel/share/rc_gazebo/cmake/rc_gazeboConfig-version.cmake

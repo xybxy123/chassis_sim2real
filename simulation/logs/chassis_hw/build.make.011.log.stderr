@@ -1,0 +1,73 @@
+In file included from [01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/chassis_hw.h:13[m[K,
+                 from [01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:1[m[K:
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/usb_can.h:43:3:[m[K [01;31m[Kerror: [m[K‘[01m[KMotorData[m[K’ does not name a type
+   43 |   [01;31m[KMotorData[m[K getMotorData(int motor_id);
+      |   [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/usb_can.h:50:45:[m[K [01;31m[Kerror: [m[K‘[01m[KMotorCommand[m[K’ does not name a type
+   50 |   void sendMotorCommand(int motor_id, const [01;31m[KMotorCommand[m[K& cmd);
+      |                                             [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/usb_can.h:67:17:[m[K [01;31m[Kerror: [m[K‘[01m[KMotorData[m[K’ was not declared in this scope
+   67 |   std::map<int, [01;31m[KMotorData[m[K> motor_data_;
+      |                 [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/usb_can.h:67:26:[m[K [01;31m[Kerror: [m[Ktemplate argument 2 is invalid
+   67 |   std::map<int, MotorData[01;31m[K>[m[K motor_data_;
+      |                          [01;31m[K^[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/usb_can.h:67:26:[m[K [01;31m[Kerror: [m[Ktemplate argument 4 is invalid
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/usb_can.h:77:57:[m[K [01;31m[Kerror: [m[K‘[01m[KMotorCommand[m[K’ does not name a type
+   77 |   can_frame createM3508CommandFrame(int motor_id, const [01;31m[KMotorCommand[m[K& cmd);
+      |                                                         [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:[m[K In member function ‘[01m[Kvirtual bool chassis_hw::ChassisHW::init(ros::NodeHandle&, ros::NodeHandle&)[m[K’:
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:24:3:[m[K [01;31m[Kerror: [m[K‘[01m[KXmlRpcValue[m[K’ was not declared in this scope; did you mean ‘[01m[KXmlRpc::XmlRpcValue[m[K’?
+   24 |   [01;31m[KXmlRpcValue[m[K motor_ids_xml;
+      |   [01;31m[K^~~~~~~~~~~[m[K
+      |   [32m[KXmlRpc::XmlRpcValue[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/node_handle.h:52[m[K,
+                 from [01m[K/opt/ros/noetic/include/hardware_interface/robot_hw.h:40[m[K,
+                 from [01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/chassis_hw.h:6[m[K,
+                 from [01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/xmlrpcpp/XmlRpcValue.h:24:23:[m[K [01;36m[Knote: [m[K‘[01m[KXmlRpc::XmlRpcValue[m[K’ declared here
+   24 |   class XMLRPCPP_DECL [01;36m[KXmlRpcValue[m[K {
+      |                       [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:25:42:[m[K [01;31m[Kerror: [m[K‘[01m[Kmotor_ids_xml[m[K’ was not declared in this scope; did you mean ‘[01m[Kmotor_ids_[m[K’?
+   25 |   if (!robot_hw_nh.getParam("motor_ids", [01;31m[Kmotor_ids_xml[m[K) || motor_ids_xml.getType() != XmlRpcValue::TypeArray)
+      |                                          [01;31m[K^~~~~~~~~~~~~[m[K
+      |                                          [32m[Kmotor_ids_[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:25:87:[m[K [01;31m[Kerror: [m[K‘[01m[KXmlRpcValue[m[K’ is not a class, namespace, or enumeration
+   25 |   if (!robot_hw_nh.getParam("motor_ids", motor_ids_xml) || motor_ids_xml.getType() != [01;31m[KXmlRpcValue[m[K::TypeArray)
+      |                                                                                       [01;31m[K^~~~~~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:32:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kmotor_ids_xml[m[K’ was not declared in this scope; did you mean ‘[01m[Kmotor_ids_[m[K’?
+   32 |   for (int i = 0; i < [01;31m[Kmotor_ids_xml[m[K.size(); ++i)
+      |                       [01;31m[K^~~~~~~~~~~~~[m[K
+      |                       [32m[Kmotor_ids_[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:[m[K In member function ‘[01m[Kvirtual void chassis_hw::ChassisHW::read(const ros::Time&, const ros::Duration&)[m[K’:
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:94:32:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass chassis_hw::UsbCan[m[K’ has no member named ‘[01m[KgetMotorData[m[K’
+   94 |     MotorData data = usb_can_->[01;31m[KgetMotorData[m[K(id);
+      |                                [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:[m[K In member function ‘[01m[Kvirtual void chassis_hw::ChassisHW::write(const ros::Time&, const ros::Duration&)[m[K’:
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:123:23:[m[K [01;31m[Kerror: [m[K‘[01m[Kclamp[m[K’ is not a member of ‘[01m[Kstd[m[K’
+  123 |     cmd.effort = std::[01;31m[Kclamp[m[K(cmd.effort, -MAX_EFFORT, MAX_EFFORT);
+      |                       [01;31m[K^~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:125:36:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kchassis_hw::MotorCommand[m[K’ to ‘[01m[Kconst int&[m[K’
+  125 |     usb_can_->sendMotorCommand(id, [01;31m[Kcmd[m[K);
+      |                                    [01;31m[K^~~[m[K
+      |                                    [01;31m[K|[m[K
+      |                                    [01;31m[Kchassis_hw::MotorCommand[m[K
+In file included from [01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/chassis_hw.h:13[m[K,
+                 from [01m[K/home/xybxy/simulation/src/chassis_hw/src/chassis_hw.cpp:1[m[K:
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/usb_can.h:50:59:[m[K [01;36m[Knote: [m[K  initializing argument 2 of ‘[01m[Kvoid chassis_hw::UsbCan::sendMotorCommand(int, const int&)[m[K’
+   50 |   void sendMotorCommand(int motor_id, [01;36m[Kconst MotorCommand& cmd[m[K);
+      |                                       [01;36m[K~~~~~~~~~~~~~~~~~~~~^~~[m[K
+In file included from [01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/usb_can.h:10[m[K,
+                 from [01m[K/home/xybxy/simulation/src/chassis_hw/src/usb_can.cpp:1[m[K:
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/chassis_hw.h:83:19:[m[K [01;31m[Kerror: [m[K‘[01m[KUsbCan[m[K’ was not declared in this scope
+   83 |   std::unique_ptr<[01;31m[KUsbCan[m[K> usb_can_;
+      |                   [01;31m[K^~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/chassis_hw.h:83:25:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   83 |   std::unique_ptr<UsbCan[01;31m[K>[m[K usb_can_;
+      |                         [01;31m[K^[m[K
+[01m[K/home/xybxy/simulation/src/chassis_hw/include/chassis_hw/chassis_hw.h:83:25:[m[K [01;31m[Kerror: [m[Ktemplate argument 2 is invalid
+make[2]: *** [CMakeFiles/chassis_hw.dir/build.make:76：CMakeFiles/chassis_hw.dir/src/usb_can.cpp.o] 错误 1
+make[2]: *** 正在等待未完成的任务....
+make[2]: *** [CMakeFiles/chassis_hw.dir/build.make:63：CMakeFiles/chassis_hw.dir/src/chassis_hw.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:746：CMakeFiles/chassis_hw.dir/all] 错误 2
+make: *** [Makefile:141：all] 错误 2

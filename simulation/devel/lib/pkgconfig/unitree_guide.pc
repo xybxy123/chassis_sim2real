@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/unitree_guide/lib/pkgconfig/unitree_guide.pc

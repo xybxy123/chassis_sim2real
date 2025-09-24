@@ -1,0 +1,4 @@
+chassis
+/home/xybxy/simula/devel/.private/chassis/lib/pkgconfig/chassis.pc /home/xybxy/simula/devel/lib/pkgconfig/chassis.pc
+/home/xybxy/simula/devel/.private/chassis/share/chassis/cmake/chassisConfig.cmake /home/xybxy/simula/devel/share/chassis/cmake/chassisConfig.cmake
+/home/xybxy/simula/devel/.private/chassis/share/chassis/cmake/chassisConfig-version.cmake /home/xybxy/simula/devel/share/chassis/cmake/chassisConfig-version.cmake

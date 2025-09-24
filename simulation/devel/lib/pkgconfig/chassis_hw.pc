@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/chassis_hw/lib/pkgconfig/chassis_hw.pc

@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/go2w_description/share/go2w_description/cmake/go2w_descriptionConfig.cmake

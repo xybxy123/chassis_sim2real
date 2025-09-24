@@ -1,0 +1,5 @@
+rm_control/rm_referee
+/home/xybxy/simula/devel/.private/rm_referee/lib/pkgconfig/rm_referee.pc /home/xybxy/simula/devel/lib/pkgconfig/rm_referee.pc
+/home/xybxy/simula/devel/.private/rm_referee/lib/rm_referee/rm_referee /home/xybxy/simula/devel/lib/rm_referee/rm_referee
+/home/xybxy/simula/devel/.private/rm_referee/share/rm_referee/cmake/rm_refereeConfig.cmake /home/xybxy/simula/devel/share/rm_referee/cmake/rm_refereeConfig.cmake
+/home/xybxy/simula/devel/.private/rm_referee/share/rm_referee/cmake/rm_refereeConfig-version.cmake /home/xybxy/simula/devel/share/rm_referee/cmake/rm_refereeConfig-version.cmake

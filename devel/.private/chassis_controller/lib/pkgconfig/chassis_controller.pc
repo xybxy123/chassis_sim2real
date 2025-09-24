@@ -1,0 +1,8 @@
+prefix=/home/xybxy/simulation/devel/.private/chassis_controller
+
+Name: chassis_controller
+Description: Description of chassis_controller
+Version: 0.0.0
+Cflags: -I/home/xybxy/simulation/src/chassis_controller/include
+Libs: -L${prefix}/lib 
+Requires: controller_interface hardware_interface pluginlib roscpp geometry_msgs
