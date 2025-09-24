@@ -1,0 +1,57 @@
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target chassis_plugin_loader[0m
+[35m[1mScanning dependencies of target test_plugin_loading[0m
+[35m[1mScanning dependencies of target test_usb_can[0m
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target controller_manager_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target controller_manager_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[ 11%] [32mBuilding CXX object CMakeFiles/test_usb_can.dir/src/hw_test/test_usb_can.cpp.o[0m
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_lisp[0m
+[ 11%] Built target controller_manager_msgs_generate_messages_py
+[ 11%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/test_plugin_loading.dir/src/hw_test/test_plugin_loading.cpp.o[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/chassis_plugin_loader.dir/src/chassis_plugin_loader.cpp.o[0m
+[ 33%] Built target std_msgs_generate_messages_eus
+[ 33%] Built target rosgraph_msgs_generate_messages_eus
+[ 33%] Built target roscpp_generate_messages_eus
+[ 33%] Built target roscpp_generate_messages_nodejs
+[ 33%] Built target controller_manager_msgs_generate_messages_lisp
+[ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[ 33%] Built target std_msgs_generate_messages_nodejs
+[ 33%] Built target std_msgs_generate_messages_py
+[ 33%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target controller_manager_msgs_generate_messages_eus[0m
+[ 33%] Built target controller_manager_msgs_generate_messages_eus
+[ 33%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target chassis_hw[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/chassis_hw.dir/src/chassis_hw.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/chassis_hw.dir/src/usb_can.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /home/xybxy/simulation/devel/.private/chassis_hw/lib/chassis_hw/test_usb_can[0m
+[ 66%] Built target test_usb_can
+[ 77%] [32m[1mLinking CXX shared library /home/xybxy/simulation/devel/.private/chassis_hw/lib/libchassis_hw.so[0m
+[ 77%] Built target chassis_hw
+[ 88%] [32m[1mLinking CXX executable /home/xybxy/simulation/devel/.private/chassis_hw/lib/chassis_hw/chassis_plugin_loader[0m
+[100%] [32m[1mLinking CXX executable /home/xybxy/simulation/devel/.private/chassis_hw/lib/chassis_hw/test_plugin_loading[0m
+[100%] Built target chassis_plugin_loader
+[100%] Built target test_plugin_loading

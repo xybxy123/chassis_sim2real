@@ -1,0 +1,4 @@
+Symlinking /home/xybxy/simulation/devel/lib/libchassis_controller.so
+Symlinking /home/xybxy/simulation/devel/lib/pkgconfig/chassis_controller.pc
+Symlinking /home/xybxy/simulation/devel/share/chassis_controller/cmake/chassis_controllerConfig-version.cmake
+Symlinking /home/xybxy/simulation/devel/share/chassis_controller/cmake/chassis_controllerConfig.cmake

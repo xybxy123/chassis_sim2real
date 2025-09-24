@@ -1,0 +1,7 @@
+Symlinking /home/xybxy/simulation/devel/lib/libchassis_hw.so
+Symlinking /home/xybxy/simulation/devel/lib/pkgconfig/chassis_hw.pc
+Symlinking /home/xybxy/simulation/devel/lib/chassis_hw/test_plugin_loading
+Symlinking /home/xybxy/simulation/devel/lib/chassis_hw/chassis_plugin_loader
+Symlinking /home/xybxy/simulation/devel/lib/chassis_hw/test_usb_can
+Symlinking /home/xybxy/simulation/devel/share/chassis_hw/cmake/chassis_hwConfig-version.cmake
+Symlinking /home/xybxy/simulation/devel/share/chassis_hw/cmake/chassis_hwConfig.cmake

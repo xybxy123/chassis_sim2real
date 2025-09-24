@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/chassis_controller/share/chassis_controller/cmake/chassis_controllerConfig-version.cmake
