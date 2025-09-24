@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/go2w_description/lib/pkgconfig/go2w_description.pc

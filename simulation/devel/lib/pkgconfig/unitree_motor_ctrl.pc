@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/unitree_motor_ctrl/lib/pkgconfig/unitree_motor_ctrl.pc

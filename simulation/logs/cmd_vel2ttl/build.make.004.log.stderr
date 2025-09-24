@@ -1,0 +1,42 @@
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/xybxy/simulation/src/cmd_vel2ttl/src/cmd_vel2ttl.cpp:1[m[K:
+[01m[K/home/xybxy/simulation/src/cmd_vel2ttl/src/cmd_vel2ttl.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/xybxy/simulation/src/cmd_vel2ttl/src/cmd_vel2ttl.cpp:105:57:[m[K [01;31m[Kerror: [m[K‘[01m[Kstatus[m[K’ was not declared in this scope; did you mean ‘[01m[Kstatic[m[K’?
+  105 | ROS_INFO("Device Status: 0x%02X, Temperature: %.1f°C", [01;31m[Kstatus[m[K, temp); // 设备状态/温度 → Device Status/Temperature
+      |                                                         [01;31m[K^~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/cmd_vel2ttl/src/cmd_vel2ttl.cpp:105:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+  105 | [01;36m[KROS_INFO[m[K("Device Status: 0x%02X, Temperature: %.1f°C", status, temp); // 设备状态/温度 → Device Status/Temperature
+      | [01;36m[K^~~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/cmd_vel2ttl/src/cmd_vel2ttl.cpp:105:65:[m[K [01;31m[Kerror: [m[K‘[01m[Ktemp[m[K’ was not declared in this scope
+  105 | ROS_INFO("Device Status: 0x%02X, Temperature: %.1f°C", status, [01;31m[Ktemp[m[K); // 设备状态/温度 → Device Status/Temperature
+      |                                                                 [01;31m[K^~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/xybxy/simulation/src/cmd_vel2ttl/src/cmd_vel2ttl.cpp:105:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+  105 | [01;36m[KROS_INFO[m[K("Device Status: 0x%02X, Temperature: %.1f°C", status, temp); // 设备状态/温度 → Device Status/Temperature
+      | [01;36m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/cmd_vel2ttl.dir/build.make:63：CMakeFiles/cmd_vel2ttl.dir/src/cmd_vel2ttl.cpp.o] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:1724：CMakeFiles/cmd_vel2ttl.dir/all] 错误 2
+make: *** [Makefile:141：all] 错误 2

@@ -1,0 +1,8 @@
+prefix=/home/xybxy/simulation/devel/.private/cmd_vel2ttl
+
+Name: cmd_vel2ttl
+Description: Description of cmd_vel2ttl
+Version: 0.0.0
+Cflags: -I/home/xybxy/simulation/src/cmd_vel2ttl/include
+Libs: -L${prefix}/lib -lultrasonic_ranging
+Requires: roscpp rospy tf2 tf2_ros nav_msgs geometry_msgs sensor_msgs std_msgs

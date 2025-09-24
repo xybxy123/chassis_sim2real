@@ -1,0 +1,1 @@
+cmd_/home/xybxy/simulation/src/peak-linux-driver-8.20.0/driver/pcan.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/xybxy/simulation/src/peak-linux-driver-8.20.0/driver/pcan.ko /home/xybxy/simulation/src/peak-linux-driver-8.20.0/driver/pcan.o /home/xybxy/simulation/src/peak-linux-driver-8.20.0/driver/pcan.mod.o;  true

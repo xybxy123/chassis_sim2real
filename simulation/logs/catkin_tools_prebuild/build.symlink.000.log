@@ -1,0 +1,52 @@
+Symlinking /home/xybxy/simulation/devel/./setup.zsh
+Symlinking /home/xybxy/simulation/devel/./local_setup.fish
+Symlinking /home/xybxy/simulation/devel/./setup.sh
+Symlinking /home/xybxy/simulation/devel/./local_setup.sh
+Symlinking /home/xybxy/simulation/devel/./local_setup.zsh
+Symlinking /home/xybxy/simulation/devel/./setup.bash
+Symlinking /home/xybxy/simulation/devel/./_setup_util.py
+Symlinking /home/xybxy/simulation/devel/./setup.fish
+Symlinking /home/xybxy/simulation/devel/./env.sh
+Symlinking /home/xybxy/simulation/devel/./local_setup.bash
+Symlinking /home/xybxy/simulation/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/xybxy/simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/xybxy/simulation/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/setup.zsh, /home/xybxy/simula/devel/./setup.zsh)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/local_setup.fish, /home/xybxy/simula/devel/./local_setup.fish)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/setup.sh, /home/xybxy/simula/devel/./setup.sh)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/local_setup.sh, /home/xybxy/simula/devel/./local_setup.sh)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/local_setup.zsh, /home/xybxy/simula/devel/./local_setup.zsh)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/setup.bash, /home/xybxy/simula/devel/./setup.bash)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/_setup_util.py, /home/xybxy/simula/devel/./_setup_util.py)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/setup.fish, /home/xybxy/simula/devel/./setup.fish)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/env.sh, /home/xybxy/simula/devel/./env.sh)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/local_setup.bash, /home/xybxy/simula/devel/./local_setup.bash)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc, /home/xybxy/simula/devel/lib/pkgconfig/catkin_tools_prebuild.pc)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake, /home/xybxy/simula/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake)
+Cleaning: (/home/xybxy/simula/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake, /home/xybxy/simula/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake)
+Unlinking: /home/xybxy/simula/devel/./setup.zsh
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./local_setup.fish
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./setup.sh
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./local_setup.sh
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./local_setup.zsh
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./setup.bash
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./_setup_util.py
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./setup.fish
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./env.sh
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/./local_setup.bash
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/xybxy/simula/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Already unlinked: {}

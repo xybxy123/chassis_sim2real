@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/aliengo_description/lib/pkgconfig/aliengo_description.pc

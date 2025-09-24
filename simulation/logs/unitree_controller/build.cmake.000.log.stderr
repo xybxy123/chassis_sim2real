@@ -1,0 +1,15 @@
+[33mWARNING: package 'gazebo_ros' is deprecated (This package has been deprecated as of January 2025 with Gazebo classic 11 reaching[0m
+      end-of-life. Users are highly encouraged to migrate to the new Gazebo
+      using our migration guides (https://gazebosim.org/docs/latest/gazebo_classic_migration))
+[33mWARNING: package 'gazebo_msgs' is deprecated (This package has been deprecated as of January 2025 with Gazebo classic 11 reaching[0m
+      end-of-life. Users are highly encouraged to migrate to the new Gazebo
+      using our migration guides (https://gazebosim.org/docs/latest/gazebo_classic_migration))
+CMake Warning (dev) at CMakeLists.txt:39 (add_dependencies):
+  Policy CMP0046 is not set: Error on non-existent dependency in
+  add_dependencies.  Run "cmake --help-policy CMP0046" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  The dependency target "unitree_legged_msgs_gencpp" of target
+  "unitree_controller" does not exist.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

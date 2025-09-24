@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/daikfs/lib/pkgconfig/daikfs.pc

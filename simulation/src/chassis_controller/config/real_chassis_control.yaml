@@ -1,0 +1,11 @@
+controller:
+  chassis_controller:
+    type: chassis_controller/ChassisController
+    left_front_wheel_joint: motor_1_joint  
+    right_front_wheel_joint: motor_2_joint  
+    left_back_wheel_joint: motor_3_joint  
+    right_back_wheel_joint: motor_4_joint  
+
+  joint_state_controller:
+    type: "joint_state_controller/JointStateController"
+    publish_rate: 1000
