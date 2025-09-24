@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/laikago_description/lib/pkgconfig/laikago_description.pc

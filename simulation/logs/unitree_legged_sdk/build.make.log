@@ -1,0 +1,5 @@
+[ 60%] Built target example_walk
+[ 60%] Built target example_position
+[ 60%] Built target example_torque
+[ 80%] Built target example_velocity
+[100%] Built target example_joystick

@@ -1,0 +1,1 @@
+/home/xybxy/simulation/devel/.private/aliengo_description/share/aliengo_description/cmake/aliengo_descriptionConfig-version.cmake

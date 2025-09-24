@@ -1,0 +1,4 @@
+daikfs
+/home/xybxy/simulation/devel/.private/daikfs/lib/pkgconfig/daikfs.pc /home/xybxy/simulation/devel/lib/pkgconfig/daikfs.pc
+/home/xybxy/simulation/devel/.private/daikfs/share/daikfs/cmake/daikfsConfig.cmake /home/xybxy/simulation/devel/share/daikfs/cmake/daikfsConfig.cmake
+/home/xybxy/simulation/devel/.private/daikfs/share/daikfs/cmake/daikfsConfig-version.cmake /home/xybxy/simulation/devel/share/daikfs/cmake/daikfsConfig-version.cmake

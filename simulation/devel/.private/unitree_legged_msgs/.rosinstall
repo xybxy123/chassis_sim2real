@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xybxy/simulation/devel/.private/unitree_legged_msgs/setup.sh

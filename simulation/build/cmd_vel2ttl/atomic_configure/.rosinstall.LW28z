@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xybxy/simulation/devel/.private/cmd_vel2ttl/setup.sh
